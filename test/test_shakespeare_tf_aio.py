@@ -139,7 +139,7 @@ class TestSimilarity(unittest.TestCase):
 
         fig.tight_layout()
 
-        plt.title("Similarity matrix")
-        filename="literature_similarity.png"
+        #plt.title("Similarity matrix")
+        filename="literature_similarity.pdf"
         fig.savefig(filename)
         print("Report created: %s" % filename)

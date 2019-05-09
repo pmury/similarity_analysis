@@ -1,0 +1,7 @@
+shakespeare;romeo_juliet;http://shakespeare.mit.edu/romeo_juliet/full.html
+shakespeare;macbeth;http://shakespeare.mit.edu/macbeth/full.html
+shakespeare;hamlet;http://shakespeare.mit.edu/hamlet/full.html
+shakespeare;othello;http://shakespeare.mit.edu/othello/full.html
+shakespeare;midsummer;http://shakespeare.mit.edu/midsummer/full.html
+shakespeare;odyssey;http://classics.mit.edu/Homer/odyssey.1.i.html
+caesar;gallic_war;http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0001

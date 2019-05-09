@@ -1,0 +1,7 @@
+pytest
+bs4
+numpy
+nltk
+matplotlib
+tensorflow
+tensorflow_hub
